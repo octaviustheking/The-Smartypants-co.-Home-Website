@@ -1,11 +1,11 @@
-# The Smartypants co. Website
-An online encyclopedia that teaches you random things and not-so random things
+# The Smartypants co. Home Website
+## The home page for the online encyclopedia that teaches you random things and not-so random things
 
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>New webpage</title>
+        <title>The Smartypants co. Home Website</title>
     </head>
     <body>
 
