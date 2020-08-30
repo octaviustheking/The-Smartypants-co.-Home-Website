@@ -7,13 +7,14 @@
         <title>The Smartypants co. Home Website</title>
     </head>
     <body>
-        <h1>Links to our Websites full of Facts!</h1>
-        <h3>Blank... for now.</h3>
-        <p>
-            
-            
-            
-        </p>
+        <h1>Links to our Encyclopedias full of Facts!</h1>
+        <a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-One-Science-and-Tech/">Volume One - Science and Tech</a>
+        <p>Volume Two - Space and Earth - Coming Soon!</p>
+        <p>Volume Three - Survival and Exploration - Coming Soon!</p>
+        <p>Volume Four - Nature - Coming Soon!</p>
+        <p>Volume Five - History - Coming Soon!</p>
+        <p>Volume Six - Geography - Coming Soon!</p>
+        <p>Volume Seven - Random Facts - Special Edition - Coming Soon!</p>
 
         <h4>Created By thamankotla@gmail.com and octaviusaszeto@gmail.com</h4>
     </body>
