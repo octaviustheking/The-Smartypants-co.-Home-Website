@@ -16,6 +16,9 @@
         <p>Volume Five - History - Coming Soon!</p>
         <p>Volume Six - Geography - Coming Soon!</p>
         <p>Volume Seven - Random Facts - Special Edition - Coming Soon!</p>
+        <p></p>
+        <h3>Below is the link for a bonus website made by thamankotla@gmail.com!</h3>
+        <a href="https://1393687.wixsite.com/website">Click Here!</a>
 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
     </body>
