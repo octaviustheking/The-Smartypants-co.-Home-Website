@@ -17,7 +17,7 @@
         <p>Volume Six - Geography - Coming Soon!</p>
         <p>Volume Seven - Random Facts - Special Edition - Coming Soon!</p>
 
-        <h4>Created By thamankotla@gmail.com and octaviusaszeto@gmail.com</h4>
+        <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
     </body>
 </html>
 
