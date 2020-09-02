@@ -16,6 +16,10 @@
         <p>Volume Five - History - Coming Soon!</p>
         <p>Volume Six - Geography - Coming Soon!</p>
         <p>Volume Seven - Random Facts - Special Edition - Coming Soon!</p>
+        <p>Volume Eight - Myths - Coming Soon!</p>
+        <p>Volume Nine - Animals - Coming Soon!</p>
+        <p>Volume Ten - Math - Coming Soon!</p>
+        <p>Volume Eleven - Covid-19 News - Special Edition - Coming Soon!</p>
         <p></p>
         <h3>Below is the link for a bonus website made by thamankotla@gmail.com</h3>
         <a href="https://1393687.wixsite.com/website">Click Here</a>
