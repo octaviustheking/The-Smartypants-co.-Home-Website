@@ -11,7 +11,9 @@
         <a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-One-Science-and-Tech/">Volume One - Science and Tech</a>
         <p>  </p>
         <p><a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-Two-Space-and-Earth/">Volume Two - Space and Earth</a></p>
-        <p>Volume Three - Survival and Exploration - Coming Soon!</p>
+        <p> </p>
+        <a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-Three-Survival-and-Exploration/">Volume Three - Survival and Exploration</a>
+        <p> </p>
         <p>Volume Four - Nature - Coming Soon!</p>
         <p>Volume Five - History - Coming Soon!</p>
         <p>Volume Six - Geography - Coming Soon!</p>
