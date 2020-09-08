@@ -29,6 +29,7 @@
         <p></p>
         <h3><a href="https://1393687.wixsite.com/website">Click Here</a> for the link for a bonus website made by thamankotla@gmail.com</h3>
         <h3>Smartypants co. is Now Hiring! <a href="https://hangouts.google.com/group/aVtAKzxs1i4Q8UX68">Click Here!</a></h3>
+        <h3><a href="">Click Here</a> to See Updates!</h3>
 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
     </body>
