@@ -7,7 +7,9 @@
         <title>The Smartypants co. Home Website</title>
     </head>
     <body>
-        <embed src="https://www.youtube.com/watch?v=EPLaINkmZec"></embed>
+        <embed src="https://www.youtube.com/watch?v=EPLaINkmZec" autostart="true" loop="true"
+width="2" height="0">
+</embed>
         <h1>Links to our Encyclopedias full of Facts!</h1>
         <a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-One-Science-and-Tech/">Volume One - Science and Tech</a>
         <p>  </p>
