@@ -29,6 +29,8 @@
         <p>Volume Thirteen - Smartypants News - Special Edition - Coming Soon!</p>
         <p>Volume Fourteen - Music - Coming Soon!</p>
         <p>Volume Fifteen - Antimatter - Special Edition - Coming Soon!</p>
+        <p>Volume Sixteen - Health - Pandemics - Coming Soon!</p>
+        <p>Volume Seventeen - Health - The Human Body - Coming Soon!</p>
         <p></p>
         <h3><a href="https://1393687.wixsite.com/website">Click Here</a> for the link for a bonus website made by thamankotla@gmail.com</h3>
         <h3>Smartypants co. is Now Hiring! <a href="https://hangouts.google.com/group/SgQ4YHko4Crg3vFf6">Click Here!</a></h3>
