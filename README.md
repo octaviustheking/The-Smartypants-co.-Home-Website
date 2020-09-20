@@ -14,7 +14,8 @@
         <p> </p>
         <a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-Three-Survival-and-Exploration/">Volume Three - Survival and Exploration</a>
         <p> </p>
-        <p>Volume Four - Nature - Coming Soon!</p>
+        <a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-Four-Nature/">Volume Four - Nature</a>
+        <p> </p>
         <p>Volume Five - History - Coming Soon!</p>
         <p>Volume Six - Geography - Coming Soon!</p>
         <p>Volume Seven - Random Facts - Special Edition - Coming Soon!</p>
