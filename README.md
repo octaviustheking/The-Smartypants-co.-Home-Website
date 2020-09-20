@@ -7,9 +7,6 @@
         <title>The Smartypants co. Home Website</title>
     </head>
     <body>
-   
-
-
         <h1>Links to our Encyclopedias full of Facts!</h1>
         <a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-One-Science-and-Tech/">Volume One - Science and Tech</a>
         <p>  </p>
@@ -26,7 +23,7 @@
         <p>Volume Ten - Math lv.1 - Coming Soon!</p>
         <p>Volume Eleven - Math lv.2 - Coming Soon!</p>
         <p>Volume Twelve - Math lv.3 - Coming Soon!</p>
-        <p>Volume Thirteen - Smartypants News - Special Edition - Coming Soon!</p>
+        <p>Volume Thirteen - What If? - Special Edition - Coming Soon!</p>
         <p>Volume Fourteen - Music - Coming Soon!</p>
         <p>Volume Fifteen - Antimatter - Special Edition - Coming Soon!</p>
         <p>Volume Sixteen - Health - Pandemics - Coming Soon!</p>
