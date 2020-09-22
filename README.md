@@ -30,11 +30,15 @@
         <p>Volume Sixteen - Health - Pandemics - Coming Soon!</p>
         <p>Volume Seventeen - Health - The Human Body - Coming Soon!</p>
         <p></p>
-        <h3><a href="https://1393687.wixsite.com/website">Click Here</a> for the link for a bonus website made by thamankotla@gmail.com</h3>
+        <h1>Extras!</h1>
+        <h3><a href="https://1393687.wixsite.com/website">Click Here</a> for the link for a bonus Smartypants co. website made by thamankotla@gmail.com!</h3>
         <h3>Smartypants co. is Now Hiring! <a href="https://hangouts.google.com/group/SgQ4YHko4Crg3vFf6">Click Here!</a></h3>
         <h3>We Want Your feedback! <a href="https://forms.gle/PsLvvWCXwtDMiDgk8">Click Here!</a></h3>
         <h3><a href="https://octaviustheking.github.io/Smartypants-co.-Updates/">Click Here</a> to see Updates!</h3>
         <h3>Smartypants News is Coming Soon!</h3>
+        <h1>More Websites!</h1>
+        <p>From the Nice People at Smartypants co.</p>
+        <p><a href="https://octaviustheking.github.io/Kingie-s_Recipe_Book/">Kingie's Recipe Book</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
     </body>
