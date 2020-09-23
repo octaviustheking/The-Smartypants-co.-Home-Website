@@ -36,6 +36,7 @@
         <h3>We Want Your feedback! <a href="https://forms.gle/PsLvvWCXwtDMiDgk8">Click Here!</a></h3>
         <h3><a href="https://octaviustheking.github.io/Smartypants-co.-Updates/">Click Here</a> to see Updates!</h3>
         <h3><a href="https://forms.gle/YThXYaybhn7UGQH16">Click Here</a> for Smartypants co.'s Monthly Survey!</h3>
+        <h3>Order the 2021 Smartypants Online Almanac Now! (It's Free)<a href="https://forms.gle/RXGe9TfhuySeqHbT6">Click Here!</a></h3>
         <h3>Smartypants News is Coming Soon!</h3>
         <h1>More Websites!</h1>
         <p>From the Nice People at Smartypants co.</p>
