@@ -40,7 +40,7 @@
         <p>From the Nice People at Smartypants co.</p>
         <p><a href="https://octaviustheking.github.io/Kingie-s_Recipe_Book/">Kingie's Recipe Book</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/All_About_Kangaroos/">All About Kangaroos!</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
-        <p><a href="https://octaviustheking.github.io/STA-Blog/#2nd-theme">STA Blog</a> - My Most Embarrassing Website - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <p><a href="https://octaviustheking.github.io/STA-Blog/#2nd-theme">STA Blog</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
     </body>
