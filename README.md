@@ -40,7 +40,7 @@
         <h3><a href="https://forms.gle/YThXYaybhn7UGQH16">Click Here</a> for Smartypants co.'s Monthly Survey!</h3>
         <h3>Order the 2021 Smartypants Online Almanac Now! (It's Free) <a href="https://forms.gle/RXGe9TfhuySeqHbT6">Click Here!</a></h3>
         <h3><a href="https://octaviustheking.github.io/Smartypants-Books/">Click Here</a> for Smartypants Books!</h3>
-        <h3><a href="https://octaviustheking.github.io/Smartypants-Studios/">Click Here</a> for Smartypants Studios!!</h3>
+        <h3><a href="https://octaviustheking.github.io/Smartypants-Studios/">Click Here</a> for Smartypants Studios!</h3>
         <h1>More Websites!</h1>
         <p>From the Nice People at Smartypants co.</p>
         <p><a href="https://octaviustheking.github.io/Kingie-s_Recipe_Book/">Kingie's Recipe Book</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
