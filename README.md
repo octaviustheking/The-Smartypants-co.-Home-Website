@@ -18,7 +18,8 @@
         <p> </p>
          <a href="https://octaviustheking.github.io/The-Smartypants-Encyclopedia-Volume-Five-History/">Volume Five - History</a>
         <p> </p>
-        <p>Volume Six - Geography - Coming Soon!</p>
+        <a href = "https://octaviustheking.github.io/The-Smartypants-co.-Encyclopedia-Volume-Six/">Volume Six - Geography</a>
+        <p> </p>
         <p>Volume Seven - Random Facts - Special Edition - Coming Soon!</p>
         <p>Volume Eight - Myths - Coming Soon!</p>
         <p>Volume Nine - Animals - Coming Soon!</p>
@@ -31,6 +32,7 @@
         <p>Volume Sixteen - Health - Pandemics - Coming Soon!</p>
         <p>Volume Seventeen - Health - The Human Body - Coming Soon!</p>
         <p>Volume Eighteen - Great Authors and Works of Literature - Coming Soon!</p>
+        <p>Volume Nineteen - Coding - Special Edition - Coming soon!<p>
         <p></p>
         <h1>Extras!</h1>
         <h3><a href="https://1393687.wixsite.com/website">Click Here</a> for the link for a bonus Smartypants co. website made by thamankotla@gmail.com!</h3>
