@@ -49,6 +49,7 @@
         <p><a href="https://octaviustheking.github.io/All_About_Kangaroos/">All About Kangaroos!</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/STA-Blog/#2nd-theme">STA Blog</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/Pig-Latin-Translator/">Pig Latin Translator</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <h2>Games</h2>
         <p><a href="https://octaviustheking.github.io/Doodle-Jump/">Doodle Jump</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/Tic-Tac-Toe/">Tic Tac Toe</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/Scroller/">Scroller</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
