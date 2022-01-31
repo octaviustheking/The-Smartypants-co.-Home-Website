@@ -49,9 +49,12 @@
         <p><a href="https://octaviustheking.github.io/All_About_Kangaroos/">All About Kangaroos!</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/STA-Blog/#2nd-theme">STA Blog</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/Pig-Latin-Translator/">Pig Latin Translator</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
-        <p><a href="file:///Users/octaviusszeto/Desktop/HTML%20Games/Tic%20Tac%20Toe.html">Tic Tac Toe</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
-        <p><a href="file:///Users/octaviusszeto/Desktop/HTML%20Games/Scroller.html">Scrolling Game</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
-        <p><a href="file:///Users/octaviusszeto/Desktop/HTML%20Games/Snake.html">Snake</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <p><a href="https://octaviustheking.github.io/Doodle-Jump/">Doodle Jump</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <p><a href="https://octaviustheking.github.io/Tic-Tac-Toe/">Tic Tac Toe</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <p><a href="https://octaviustheking.github.io/Scroller/">Scroller</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <p><a href="https://octaviustheking.github.io/Snake/">Snake</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <p><a href="https://octaviustheking.github.io/Super-Cat/">Super Cat</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <p><a href="https://octaviustheking.github.io/Pong/">Pong</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
     </body>
 </html>
