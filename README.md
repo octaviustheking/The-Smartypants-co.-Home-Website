@@ -33,6 +33,7 @@
         <p>Volume Seventeen - Health - The Human Body - Coming Soon!</p>
         <p>Volume Eighteen - Great Authors and Works of Literature - Coming Soon!</p>
         <p>Volume Nineteen - Coding - Special Edition - Coming soon!<p>
+        <p>Volume Twenty - Cubing - Special Edition - Coming soon!<p>
         <p></p>
         <h1>Extras!</h1>
         <h3><a href="https://1393687.wixsite.com/website">Click Here</a> for the link for a bonus Smartypants co. website made by thamankotla@gmail.com!</h3>
