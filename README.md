@@ -57,6 +57,7 @@
         <p><a href="https://octaviustheking.github.io/Snake/">Snake</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/Super-Cat/">Super Cat</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
         <p><a href="https://octaviustheking.github.io/Pong/">Pong</a> - <a href="https://github.com/octaviustheking">octaviustheking</a></p>
+        <p><a href="https://octaviustheking.github.io/Stick-Battles/">Stick Battles</a> - ougadouga?</p>
         <p><a href="https://octaviustheking.github.io/Stick-Battles-2/">Stick Battles 2</a> - noob-lolxd</p>
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
     </body>
